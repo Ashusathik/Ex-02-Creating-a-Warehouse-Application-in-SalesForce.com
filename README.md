@@ -1,7 +1,7 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
-NAME: HARINE S
+NAME: ASHRATHI S
 
-REG NO: 212224230081
+REG NO: 212224230025
 ## AIM:
 To create a warehouse application in salesforce.com
 
